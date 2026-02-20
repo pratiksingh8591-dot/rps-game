@@ -1,4 +1,5 @@
-#Java script Project
+# Java script Project
+<br>
 Its my basic project using javascript(while learning)
 <br>
-and please ignore start.js file
+And please ignore <b>start.js</b> file
